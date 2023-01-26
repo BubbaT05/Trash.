@@ -7,3 +7,4 @@ cd "Name of Folder"
 git add .
 git commit -m "Update readme"
 git push
+did i do it
