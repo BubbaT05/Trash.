@@ -1,2 +1,2 @@
 # Trash.
-something ggg goblin
+something ggg goblin gold
