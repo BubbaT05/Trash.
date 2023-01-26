@@ -1,2 +1,2 @@
 # Trash.
-something goblin gold JP
+something goblin gold JP outline
